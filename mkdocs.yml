@@ -49,7 +49,7 @@ nav:
   - Projeto3: projetos/projeto3.md
   
 - API:
-  - Minha primeira Api: projetos/projeto1.md
+  - Minha primeira Api: api/api1.md
   
 markdown_extensions:
 - toc:
