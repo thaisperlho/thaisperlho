@@ -9,13 +9,13 @@ theme:
   palette:
   - scheme: default
     primary: indigo
-    accent: deep orange
+    accent: pink
     toggle:
       icon: material/lightbulb
       name: Switch to dark mode
   - scheme: slate
     primary: indigo
-    accent: deep orange
+    accent: pink
     toggle:
       icon: material/lightbulb-outline
       name: Switch to light mode
@@ -36,6 +36,7 @@ repo_name: 'thaisperlho'
 repo_url: 'https://github.com/thaisperlho'
 edit_uri: ''
 plugins:
+  - glightbox
   - search
   - mkdocs-video:
       mark: "custom-marker"
@@ -44,14 +45,19 @@ nav:
 - Home: index.md
 #- Instance Project: instance-project.md
 - Meus projetos: 
-  - Projeto1: projetos/projeto1.md
-  - Projeto2: projetos/projeto2.md
+  - Encontrando Caramelos: projetos/projeto1.md
+  - Soccer News: projetos/projeto2.md
   - Projeto3: projetos/projeto3.md
   
 - API:
-  - Minha primeira Api: api/api1.md
+  - Rest API: api/api1.md
   
 markdown_extensions:
+- pymdownx.superfences
+- pymdownx.tabbed:
+    alternate_style: true 
+- attr_list:
+- md_in_html:
 - toc:
     permalink: true
 - markdown.extensions.codehilite:
