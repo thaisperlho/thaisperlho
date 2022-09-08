@@ -9,24 +9,24 @@ theme:
   palette:
   - scheme: default
     primary: indigo
-    accent: pink
+    accent: deep orange
     toggle:
       icon: material/lightbulb
       name: Switch to dark mode
   - scheme: slate
     primary: indigo
-    accent: pink
+    accent: deep orange
     toggle:
       icon: material/lightbulb-outline
       name: Switch to light mode
   features:
-  - search.suggest
-  - search.highlight
-  - search.share
-  - search.suggest
-  - navigation.expand
-  - navigation.top
-  - header.autohide
+    - search.suggest
+    - search.highlight
+    - search.share
+    - search.suggest
+    - navigation.expand
+    - navigation.top
+    - header.autohide
   icon:
     repo: fontawesome/brands/github-alt
   logo: img/menina.png
@@ -53,31 +53,28 @@ nav:
   - Rest API: api/api1.md
   
 markdown_extensions:
-- pymdownx.superfences
-- pymdownx.tabbed:
-    alternate_style: true 
-- attr_list:
-- md_in_html:
-- toc:
-    permalink: true
-- markdown.extensions.codehilite:
-    guess_lang: false
-- markdown_include.include:
-    base_path: docs
-- pymdownx.emoji:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
-- admonition
-- attr_list
-- codehilite
-- extra
-- pymdownx.tabbed
-- pymdownx.smartsymbols
-- pymdownx.superfences:
-    custom_fences:
-    - name: mermaid
-      class: mermaid
-      format: !!python/name:pymdownx.superfences.fence_div_format ''
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown_include.include:
+      base_path: docs
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - attr_list
+  - codehilite
+  - extra
+  - pymdownx.tabbed
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_div_format ''
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -87,13 +84,13 @@ extra:
 copyright: Copyright &copy; Thais Pereira de Carvalho
 
 extra_css:
-- css/termynal.css
-- css/custom.csss
-- css/extras.css
+  - css/termynal.css
+  - css/custom.csss
+  - css/extras.css
 
 extra_javascript:
-- https://unpkg.com/mermaid@8.4.6/dist/mermaid.min.js
-- https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-- js/termynal.js
-- js/custom.js
-- js/table.js
+  - https://unpkg.com/mermaid@8.4.6/dist/mermaid.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - js/termynal.js
+  - js/custom.js
+  - js/table.js
