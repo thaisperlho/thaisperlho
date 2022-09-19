@@ -9,13 +9,13 @@ theme:
   palette:
   - scheme: default
     primary: indigo
-    accent: deep orange
+    accent: pink
     toggle:
       icon: material/lightbulb
       name: Switch to dark mode
   - scheme: slate
-    primary: indigo
-    accent: deep orange
+    primary: blue
+    accent: pink
     toggle:
       icon: material/lightbulb-outline
       name: Switch to light mode
