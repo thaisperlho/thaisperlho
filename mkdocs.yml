@@ -3,7 +3,7 @@ site_description: Portifólio da Thais Carvalho
 site_url: ''
 theme:
   name: material
-  #custom_dir: overrides
+  #\custom_dir: overrides
   font:
     code: Roboto Mono
   palette:
@@ -25,6 +25,10 @@ theme:
     - search.share
     - search.suggest
     - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
     - navigation.top
     - header.autohide
   icon:
