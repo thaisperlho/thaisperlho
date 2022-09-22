@@ -37,5 +37,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Snake animation](https://github.com/thaisperlho/thaisperlho/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
