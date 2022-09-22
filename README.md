@@ -37,3 +37,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Snake animation](https://github.com/thaisperlho/thaisperlho/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/thaisperlho/thaisperlho/blob/output/ocean.gif)
+
