@@ -21,6 +21,7 @@
 	<img align="center" alt="thatha-kotlin" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
 	<img align="center" alt="thatha-node" height="35" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 	<img align="center" alt="thatha-fastapi" height="35" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="thatha-postegres" height="40" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> 
 </div>
 
 ---
