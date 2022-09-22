@@ -25,7 +25,22 @@ $ curl https://localhost:8000/personal-info
 $ curl https://localhost:8000/target
 
 {
-    "message": "Conseguir meu primeiro emprego na área de programação."
+    "message": "Conseguir meu primeiro emprego na área de desenvolvimento de software."
+}
+```
+</div>
+
+## Porque contratar-me? 
+
+<div class="termy">
+
+```console
+$ curl https://localhost:8000/why-hire-me
+
+{
+    "message": "Sou uma pessoa determinada e proativa.",
+    "quality": ["Autoditada","comunicativa","observadora","Curiosa"]
+
 }
 ```
 </div>

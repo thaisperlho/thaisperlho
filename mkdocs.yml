@@ -14,7 +14,7 @@ theme:
       icon: material/lightbulb
       name: Switch to dark mode
   - scheme: slate
-    primary: blue
+    primary: indigo
     accent: pink
     toggle:
       icon: material/lightbulb-outline
