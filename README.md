@@ -36,4 +36,4 @@ thaisperlho/thaisperlho is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Snake animation](https://github.com/thaisperlho/thaisperlho/blob/output/github-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/thaisperlho/thaisperlho/blob/output/ithub-snake-dark.svg)
