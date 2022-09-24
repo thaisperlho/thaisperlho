@@ -31,7 +31,7 @@ theme:
   icon:
     repo: fontawesome/brands/github-alt
   logo: img/menina.png
-  favicon: img/favicon.ico
+  favicon: img/favicon.png
   language: en
 repo_name: 'thaisperlho'
 repo_url: 'https://github.com/thaisperlho'

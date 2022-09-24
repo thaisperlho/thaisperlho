@@ -4,6 +4,20 @@
 - 💞️ I’m looking to get better every day
 - 📫 You can contact me through carvalho.thais0301@gmail.com
 
+
+<div>
+  <button 
+    href="https://thaisperlho.github.io/thaisperlho" 
+    type="button" style="background: black; border-radius: 30px; color: white;">
+      <!--<img src="docs/img/favicon.png"></img>-->
+      Portfolio
+  </button>
+</div>
+<br>
+
+---
+
+
 <div>
   <a href = "https://github.com/thaisperlho">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=thaisperlho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
