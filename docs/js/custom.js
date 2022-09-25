@@ -5,7 +5,6 @@ async function getDataBatch(page) {
     const data = await response.json()
     return data
 }
-
 async function getData() {
     let page = 1
     let data = []

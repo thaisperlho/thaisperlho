@@ -1,6 +1,10 @@
 # Bem-vindo a minha melhor versão
 
-Aqui vou lhe apresentar as pequenas conquistas que  a estrada do aprendizado me levou.[ThaisPerlho](https://).
+Aqui vou lhe apresentar as pequenas conquistas que a estrada do aprendizado me levou. 
+
+ **Me explique melhor ?**
+
+Bem esse é o meu portifolio tenho aqui alguns dos meus projetos, documentandos de modo bem dinâmico para mostrar o que venho apredendo e aperfeiçoando.
 
 ## Informações pessoais
 
