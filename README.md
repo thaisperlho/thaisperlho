@@ -6,9 +6,6 @@
 
 [![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
----
-
-
 <div>
   <a href = "https://github.com/thaisperlho">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=thaisperlho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
