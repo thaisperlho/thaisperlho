@@ -4,16 +4,7 @@
 - 💞️ I’m looking to get better every day
 - 📫 You can contact me through carvalho.thais0301@gmail.com
 
-
-<div>
-  <button 
-    href="https://thaisperlho.github.io/thaisperlho" 
-    type="button" style="background: black; border-radius: 30px; color: white;">
-      <!--<img src="docs/img/favicon.png"></img>-->
-      Portfolio
-  </button>
-</div>
-<br>
+[![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
 ---
 
