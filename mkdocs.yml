@@ -46,8 +46,8 @@ nav:
 - Home: index.md
 #- Instance Project: instance-project.md
 - Meus projetos: 
-  - Encontrando Caramelos: projetos/projeto1.md
-  - Soccer News: projetos/projeto2.md
+  - Encontrando Caramelos: projetos/EncontrandoCaramelos.md
+  - Soccer News: projetos/SoccerNews.md
   - Projeto3: projetos/projeto3.md
   
 - API:
