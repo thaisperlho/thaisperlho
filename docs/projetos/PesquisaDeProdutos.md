@@ -314,7 +314,7 @@ dataframe = main()
 
 - Print do arquivo teste
 
-![print-teste](../img/teste.png)
+![print-teste](/img/teste.png)
 
 
 ## Repositório
