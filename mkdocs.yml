@@ -45,12 +45,10 @@ plugins:
 
 nav:
 - Home: index.md
-#- Instance Project: instance-project.md
 - Meus projetos: 
   - Encontrando Caramelos: projetos/EncontrandoCaramelos.md
   - Soccer News: projetos/SoccerNews.md
-  - Projeto3: projetos/projeto3.md
-  
+  - Pesquisa de Produtos: projetos/PesquisaDeProdutos.md
 - API:
   - Rest API: api/api1.md
   
@@ -74,6 +72,8 @@ markdown_extensions:
   - extra
   - pymdownx.tabbed
   - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

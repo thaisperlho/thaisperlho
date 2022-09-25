@@ -251,3 +251,15 @@ CREATE INDEX FK_13 ON adocao
 );
 
 ```
+
+## Serviços
+
+- ElephanteSQL
+
+ElephantSQL é um serviço de hospedagem de banco de dados PostgreSQL. O ElephantSQL gerenciará tarefas administrativas do PostgreSQL, como instalação, atualizações para a versão estável mais recente e tratamento de backup.
+
+![print-tela](../img/ElephanteSql.png)
+
+## Repositório
+
+[Banco de Dados](https://github.com/thaisperlho/BD-EncontrandoCaramelos)

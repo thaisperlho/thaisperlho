@@ -1,16 +1,16 @@
 
 # Soccer News ![Icon-app](../img/ic_launcher.png){ align=center }
-Um aplicativo de noticias sobre fultebol Feminino :octicons-heart-fill-24:{ .heart}
+Um aplicativo de notícias sobre fultebol Feminino :octicons-heart-fill-24:{ .heart}
 
 Esse é um projeto mobile desenvolvido para o sistema operacional Android <img align="center" alt="thatha-android" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 
 
 ## Quais as funcionalidades ?
 
-- Feed com as notifiias disponiveis.
-- Conseguir ser redirecionado para a notica completa.
+- Feed com as notícias disponiveis.
+- Conseguir ser redirecionado para a notícia completa.
 - Marca como favoritas.
-- Compartilhar as noticias.
+- Compartilhar as notícias.
 
 
 ## Ferramentas
@@ -24,13 +24,13 @@ Esse é um projeto mobile desenvolvido para o sistema operacional Android <img a
 
 ## Classes e Pacotes
 
-![Modelo Conceitual](../img/projeto.png)
+![print_tela](../img/projeto.png)
 
 Todo o projeto esta no [Soccer News](https://github.com/thaisperlho/Soccer-News) meu repositório no Github 
 
 ## Conexão com API
 
-Criei uma [API](docs/api/api1.md) para fornecer as noticias e informações. Utilizei o Retrofit.
+Criei uma [API](../api/api1.md) para fornecer as notícias e informações. Utilizei o Retrofit.
 
 ![Modelo Conceitual](../img/conexao.png)
 
