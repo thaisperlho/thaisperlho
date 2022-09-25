@@ -310,6 +310,14 @@ def main():
 dataframe = main()
 ```
 
+## Resultado
+
+- Print do arquivo teste
+
+![print-teste](/img/teste.png)
+
+
 ## Repositório
 
 [Pesquisa de Produtos](https://github.com/thaisperlho/project-prices-products-chile)
+
