@@ -2,9 +2,9 @@
 
 Aqui vou lhe apresentar as pequenas conquistas que a estrada do aprendizado me levou. 
 
- **Me explique melhor?**
+ **Explique melhor?**
 
-Bem esse é o meu portfólio tenho aqui alguns dos meus projetos, documentados de modo bem dinâmico para mostrar o que venho aprendendo e aperfeiçoando.
+Bem este é o meu portfólio tenho aqui alguns dos meus projetos, documentados de modo bem dinâmico para mostrar o que venho aprendendo e aperfeiçoando.
 
 ## Informações pessoais
 
@@ -34,7 +34,7 @@ $ curl https://localhost:8000/target
 ```
 </div>
 
-## Por que motivo contratar-me? 
+## Por que me contratar? 
 
 <div class="termy">
 
