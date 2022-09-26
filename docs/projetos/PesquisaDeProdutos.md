@@ -1,6 +1,6 @@
 # Programa de Pesquisa de Produtos
 
-Esse programa foi realizado para um trabalho free lance, fiz o levantamento de alguns produtos e as suas respetivas informações.
+Esse programa foi realizado para um trabalho freelancer, fiz o levantamento de alguns produtos e as suas respetivas informações.
 
 **[Site de Pesquisa](https://www.odepa.gob.cl/precios/avance-por-productos)**
 
@@ -12,7 +12,7 @@ Esse programa foi realizado para um trabalho free lance, fiz o levantamento de a
     * [x] Categorias.
     * [x] Produtos.
     * [x] Preço de cada produto.
-- Salvar num arquivo em: 
+- Salvar em um arquivo em: 
     * [x] cvc 
     * [x] xlsx.
 
