@@ -2,9 +2,9 @@
 
 Aqui vou lhe apresentar as pequenas conquistas que a estrada do aprendizado me levou. 
 
- **Me explique melhor ?**
+ **Me explique melhor?**
 
-Bem esse é o meu portifolio tenho aqui alguns dos meus projetos, documentandos de modo bem dinâmico para mostrar o que venho apredendo e aperfeiçoando.
+Bem esse é o meu portfólio tenho aqui alguns dos meus projetos, documentados de modo bem dinâmico para mostrar o que venho aprendendo e aperfeiçoando.
 
 ## Informações pessoais
 

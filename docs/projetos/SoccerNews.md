@@ -1,13 +1,13 @@
 
 # Soccer News ![Icon-app](../img/ic_launcher.png){ align=center }
-Um aplicativo de notícias sobre fultebol Feminino :octicons-heart-fill-24:{ .heart}
+Um aplicativo de notícias sobre futebol Feminino :octicons-heart-fill-24:{ .heart}
 
 Esse é um projeto mobile desenvolvido para o sistema operacional Android <img align="center" alt="thatha-android" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 
 
-## Quais as funcionalidades ?
+## Quais as funcionalidades?
 
-- Feed com as notícias disponiveis.
+- Feed com as notícias disponíveis.
 - Conseguir ser redirecionado para a notícia completa.
 - Marca como favoritas.
 - Compartilhar as notícias.
@@ -26,7 +26,7 @@ Esse é um projeto mobile desenvolvido para o sistema operacional Android <img a
 
 ![print_tela](../img/projeto.png)
 
-Todo o projeto esta no [Soccer News](https://github.com/thaisperlho/Soccer-News) meu repositório no Github 
+Todo o projeto esta no [Soccer News](https://github.com/thaisperlho/Soccer-News). Meu repositório no Github. 
 
 ## Conexão com API
 
@@ -50,7 +50,7 @@ Criei uma [API](../api/api1.md) para fornecer as notícias e informações. Util
 
 ## APK para teste
 
-Faça parte do meu grupo de testadores e apoiadores no Firebase clicando [AQUI](https://appdistribution.firebase.dev/i/f5e0d9b8b2451440), assim te envio a APK para que possa instalar e testar em seu smartphone <img align="center" alt="thatha-android" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+Faça parte do meu grupo de testadores e apoiadores no Firebase clicando [AQUI](https://appdistribution.firebase.dev/i/f5e0d9b8b2451440), assim te envio a APK para poder instalar e testar em seu smartphone<img align="center" alt="thatha-android" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 
 
 

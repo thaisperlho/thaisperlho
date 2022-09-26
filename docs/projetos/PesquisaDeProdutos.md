@@ -1,6 +1,6 @@
 # Programa de Pesquisa de Produtos
 
-Esse programa foi realizado para um trabalho free lance, fiz o levantamento de alguns produtos e suas respectivas informações.
+Esse programa foi realizado para um trabalho free lance, fiz o levantamento de alguns produtos e as suas respetivas informações.
 
 **[Site de Pesquisa](https://www.odepa.gob.cl/precios/avance-por-productos)**
 
@@ -11,14 +11,14 @@ Esse programa foi realizado para um trabalho free lance, fiz o levantamento de a
 - Fazer o levantamento de dados incluindo:
     * [x] Categorias.
     * [x] Produtos.
-    * [x] Preco de cada produto.
-- Salvar em um arquivo em: 
+    * [x] Preço de cada produto.
+- Salvar num arquivo em: 
     * [x] cvc 
     * [x] xlsx.
 
 ## Ferramentas
 
-- Colab que ja oferece um <img align="center" alt="thatha-ju" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
+- Colab que já oferece um <img align="center" alt="thatha-ju" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
 
 - Visual Studio Code <img align="center" alt="thatha-vi" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
