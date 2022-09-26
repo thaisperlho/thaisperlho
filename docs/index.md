@@ -43,7 +43,7 @@ $ curl https://localhost:8000/why-hire-me
 
 {
     "message": "Sou uma pessoa determinada e proativa.",
-    "quality": ["Autoditada","comunicativa","observadora","Curiosa"]
+    "quality": ["Autodidata","Comunicativa","Observadora","Curiosa"]
 
 }
 ```
