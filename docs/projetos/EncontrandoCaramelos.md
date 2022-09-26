@@ -2,8 +2,7 @@
 
 ## **Qual objetivo?**
 
-O objetivo do "Encontrando Caramelos" é diminuir maus-
-tratos em animais de rua e proporcionar uma adoção rápida
+O objetivo do "Encontrando Caramelos" é diminuir maus-tratos em animais de rua e proporcionar uma adoção rápida
 e segura através de uma plataforma de fácil acesso,
 atingindo de forma direta a qualidade de vida de todas as
 partes envolvidas no processo (ONGs, adotantes e pets).
