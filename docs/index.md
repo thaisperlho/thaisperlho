@@ -34,7 +34,7 @@ $ curl https://localhost:8000/target
 ```
 </div>
 
-## Porque contratar-me? 
+## Por que motivo contratar-me? 
 
 <div class="termy">
 
