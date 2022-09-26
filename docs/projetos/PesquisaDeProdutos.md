@@ -38,7 +38,7 @@ from time import sleep
 from datetime import datetime
 ```
 
-## Codigo
+## Código
 
 ```python
 console = Console()
