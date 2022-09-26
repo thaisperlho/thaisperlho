@@ -6,7 +6,7 @@ Essa API fornece as notícias utilizadas no [Soccer News](../projetos/SoccerNews
 
 - Python <img align="center" alt="thatha-py" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-## Documentaçao
+## Documentação
 
 === "Docs"
     <figure markdown>
