@@ -30,7 +30,7 @@ Todo o projeto esta no [Soccer News](https://github.com/thaisperlho/Soccer-News)
 
 ## Conexão com API
 
-Criei uma [API](../api/api1.md) para fornecer as notícias e informações. Utilizei o Retrofit.
+Criei uma [API](../api/api1.md) para fornecer as notícias e informações. Utilizei o Retrofit para buscar os dados.
 
 ![Modelo Conceitual](../img/conexao.png)
 

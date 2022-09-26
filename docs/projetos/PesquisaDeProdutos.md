@@ -18,7 +18,7 @@ Esse programa foi realizado para um trabalho freelancer, fiz o levantamento de a
 
 ## Ferramentas
 
-- Colab que já oferece um <img align="center" alt="thatha-ju" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
+- Google Colab que já oferece o <img align="center" alt="thatha-ju" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
 
 - Visual Studio Code <img align="center" alt="thatha-vi" height="60" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 

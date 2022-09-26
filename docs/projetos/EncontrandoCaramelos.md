@@ -267,6 +267,8 @@ ElephantSQL é um serviço de hospedagem de banco de dados PostgreSQL. O Elephan
 
 
 
-### Colaboradores
+## Colaboradores
 
-<a href="https://github.com/squidfunk" title="@amandaSribeiro"> <img class="md-author" src="https://avatars.githubusercontent.com/u/99301414?s=72&v=4" alt="Amanda Ribeiro"> </a>
+![Open portfolio](/img/amanda.png){height="50" width="50"} [Amanda Ribeiro](https://github.com/amandaSribeiro)
+
+![Open portfolio](/img/adriana.png){height="50" width="50"} [Adriana Melo](https://github.com/AdrianaQMelo)

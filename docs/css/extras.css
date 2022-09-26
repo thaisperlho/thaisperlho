@@ -1,9 +1,8 @@
 @import 'variables.css';
 
-p, h1, h2, h3, h4, h5, h6, span {
+/*p, h1, h2, h3, h4, h5, h6, span {
     letter-spacing: 1px !important;
-    /*word-break: break-all;*/
-}
+}*/
 
 p, span, a {
     font-size: 18px;
@@ -56,7 +55,7 @@ p, span, a {
     }
 }
 .md-top:focus, .md-top:hover {
-    background: #3F51B5z`;
+    background: var(--primary);
 }
 .md-typeset .headerlink:focus, .md-typeset .headerlink:hover, .md-typeset :target>.headerlink {
     color: var(--primary);
@@ -111,12 +110,12 @@ span.md-ellipsis::before {
     top: 0px;
     left: -14px;
 }
-.md-footer {
-    background: #3F51B5;
-}
 .md-footer-meta {
     padding: 0;
     background: var(--dark-gray);
+}
+.author{
+    border-radius: 25px;
 }
 /*
 p img,
@@ -134,14 +133,4 @@ p iframe {
   .heart {
     animation: heart 1000ms infinite;
     color: #c2185b;
-  }
-
-  .md-author{
-    border-radius: 100%;
-    display: block;
-    height: 2.6rem;
-    overflow: hidden;
-    position: relative;
-    transition: color 125ms,transform 125ms;
-    width: 2.6rem;
   }
