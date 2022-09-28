@@ -1,7 +1,7 @@
 # Bem-vindo a minha melhor versão
    
 <p align="center">
-  <img src="../img/logo3.png" alt="">
+  <img src="./img/logo3.png" alt="">
 </p>   
 
 Aqui vou lhe apresentar as pequenas conquistas que a estrada do aprendizado me levou. 
