@@ -1,4 +1,8 @@
 # Bem-vindo a minha melhor versão
+   
+<p align="center">
+  <a href="/"><img src="../img/logo3.png" alt=""></a>
+</p>   
 
 Aqui vou lhe apresentar as pequenas conquistas que a estrada do aprendizado me levou. 
 
