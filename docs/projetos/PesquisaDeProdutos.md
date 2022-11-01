@@ -13,7 +13,11 @@ Esse programa foi realizado para um trabalho freelancer, fiz o levantamento de a
     * [x] Produtos.
     * [x] Preço de cada produto.
 - Salvar em um arquivo em: 
+<<<<<<< HEAD
     * [x] csv.
+=======
+    * [x] cvc 
+>>>>>>> baf8e54 (docs: update PesquisaDeProdutos.md)
     * [x] xlsx.
 
 ## Ferramentas
