@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaisperlho
+- 👋 Hi, I’m  @thaisperlho
 - 👀 I’m interested in tecnologia
 - 🌱 I’m currently learning FastApi, Python and NodeJS
 - 💞️ I’m looking to get better every day
