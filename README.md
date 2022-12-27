@@ -25,7 +25,7 @@
 	<img align="center" alt="thatha-fastapi" height="35" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
   <img align="center" alt="thatha-postegres" height="40" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> 
   <img align="center" alt="thatha-docker" height="50" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
-  <img align="center" alt="thatha-azure" height="40" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
+  <img align="center" alt="thatha-azure" height="35" width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
 </div>
 
 ---
