@@ -31,7 +31,7 @@ theme:
     - toc.follow
   icon:
     repo: fontawesome/brands/github-alt
-  logo: img/menina.png
+  logo: img/foto-perfil.png
   favicon: img/favicon.png
   language: en
 repo_name: 'thaisperlho'

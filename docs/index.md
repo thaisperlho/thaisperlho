@@ -1,14 +1,10 @@
 # Bem-vindo a minha melhor versão
    
-<p align="center">
-  <img src="./img/logo3.png" alt="">
-</p>   
+<div align="center">
+<img src="./img/mygif.gif">
+</div>
 
-Aqui vou lhe apresentar as pequenas conquistas que a estrada do aprendizado me levou. 
-
- **Explique melhor?**
-
-Bem este é o meu portfólio tenho aqui alguns dos meus projetos, documentados de modo bem dinâmico para mostrar o que venho aprendendo e aperfeiçoando.
+Este é o meu portfólio tenho aqui alguns dos meus projetos, documentados de modo bem dinâmico para mostrar o que venho aprendendo e aperfeiçoando.
 
 ## Informações pessoais
 
