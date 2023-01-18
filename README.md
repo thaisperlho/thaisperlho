@@ -6,7 +6,7 @@
 
 [![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaisperlho&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisperlho&theme=tokyonight) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaisperlho&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisperlho&theme=algolia) |
 | :-: | :-: |
 
 
