@@ -6,6 +6,9 @@
 
 [![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaisperlho&theme=algolia)
+
+
 <div>
   <img align="center" alt="thatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thatha-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
