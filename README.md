@@ -6,8 +6,8 @@
 
 [![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaisperlho&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisperlho&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaisperlho&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisperlho&theme=nord_dark)
 
 
 
