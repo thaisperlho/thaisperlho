@@ -7,13 +7,6 @@
 [![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
 <div>
-  <a href = "https://github.com/thaisperlho">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=thaisperlho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thaisperlho&layout=compact&langs_count=16&theme=algolia&hide=jupyter%20notebook,procfile,shell"/>
-  </a>
-</div>
-
-<div>
   <img align="center" alt="thatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thatha-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thatha-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
