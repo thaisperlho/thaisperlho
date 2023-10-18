@@ -258,7 +258,8 @@
  * HTML API: If current script has container(s) specified, initialise Termynal.
  */
  if (document.currentScript.hasAttribute('data-termynal-container')) {
-     const containers = document.currentScript.getAttribute('data-termynal-container');
-     containers.split('|')
-         .forEach(container => new Termynal(container))
- }
+    const containers = document.currentScript.getAttribute('data-termynal-container');
+    const containerArray = containers.split('|');
+    containerArray.forEach(container => new Termynal(container));
+  }
+  
