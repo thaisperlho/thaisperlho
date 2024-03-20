@@ -1,8 +1,8 @@
-- 👋 Hi, I’m  @thaisperlho
-- 👀 I’m interested in tecnologia
-- 🌱 I’m currently learning FastApi, Python and NodeJS
-- 💞️ I’m looking to get better every day
-- 📫 You can contact me through carvalho.thais0301@gmail.com
+- 👋 Olá, sou @thaisperlho
+- 👀 Tenho interesse em tecnologia
+- 🌱 Atualmente estou aprendendo React Native, React e NodeJS
+- 💞️ Estou buscando melhorar a cada dia
+- 📫 Você pode entrar em contato comigo através do carvalho.thais0301@gmail.com
 
 [![Open portfolio](docs/img/portfolio.svg)](https://thaisperlho.github.io/thaisperlho)
 
