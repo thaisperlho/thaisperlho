@@ -1,4 +1,4 @@
-## ![Logo Encontrando Caramelos](../img/logo1-encontrandocaramelos.png)
+## ![Logo Nera](../img/logo1-encontrandocaramelos.png)
 
 ## **Qual objetivo?**
 
