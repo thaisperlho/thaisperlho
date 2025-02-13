@@ -46,6 +46,7 @@ plugins:
 nav:
 - Home: index.md
 - Meus projetos: 
+  - Nera: projetos/Nera.md
   - Encontrando Caramelos: projetos/EncontrandoCaramelos.md
   - Soccer News: projetos/SoccerNews.md
   - Pesquisa de Produtos: projetos/PesquisaDeProdutos.md
